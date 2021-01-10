@@ -5,9 +5,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/" 
-url: "/harshitab2604.github.io" 
+url: "/silverarrow975.github.io" 
 twitter_username: hershi_2604
-github_username:  HarshitaB2604
+github_username:  silverarrow975
 
 sass:
   sass_dir: _sass
